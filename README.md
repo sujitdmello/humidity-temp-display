@@ -1,5 +1,7 @@
 # DHT22 Humidity & Temperature Display
 
+![image](https://github.com/user-attachments/assets/a94d018c-af0d-4fb8-9019-62699a4227ec)
+
 A Python project for Raspberry Pi that reads humidity and temperature data from a DHT22 sensor and displays it on an OLED screen with automatic switching between readings.
 
 ## Hardware Requirements
