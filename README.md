@@ -4,7 +4,7 @@
 
 A Python project for Raspberry Pi that reads humidity and temperature data from a DHT22 sensor and displays it on an OLED screen with automatic switching between readings.
 
-> Most of the code and docs here were geenrated with the Github Copilot Agent (in VS Code) and was tweaked/validated before publishing.
+> Most of the code and docs here were generated with the Github Copilot Agent (in VS Code) and was tweaked/validated before publishing.
 
 ## Hardware Requirements
 
